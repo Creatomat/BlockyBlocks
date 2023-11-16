@@ -9,10 +9,6 @@ This resource pack attempts to recreate the atmosphere of the Minecraft trailers
 * Color schemes are consistent with the original Minecraft, with almost no new colors added.
 * Adheres to the OCD style, emphasizing clean lines and consistent textures.
 
-### Video Showcase
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ve731ydamQc" title="Blocky Blocks v1 || Minecraft || Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Important Note
 
 **WARNING:** DO NOT DOWNLOAD FOR ANY SITE BESIDES PLANET MINECRAFT, MODRINTH AND CURSEFORGE
