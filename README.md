@@ -14,10 +14,6 @@ This resource pack attempts to recreate the atmosphere of the Minecraft trailers
   
 [![rocketnodebanner](https://creatomat.github.io/CRE8TO2.png)](https://rocketnode.com/creatomat)  
 
-### Video Showcase
-
-<span><iframe width="1280" height="720" src="https://www.youtube.com/embed/2jK_sixDvyw" frameborder="0" allowfullscreen="allowfullscreen"></iframe></span>
-
 ### Important Note
 
 **WARNING:** DO NOT DOWNLOAD FOR ANY SITE BESIDES PLANET MINECRAFT, MODRINTH AND CURSEFORGE
